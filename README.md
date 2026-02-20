@@ -61,6 +61,15 @@ Estructura modular orientada a escalabilidad:
 
 ---
 
+## 📸 Capturas
+
+![Demo](./public/User.gif)
+![Demo](./public/Inicio.gif)
+![Demo](./public/donacion.gif)
+![Demo](./public/mis_campañas.gif)
+
+---
+
 ## 🔄 Integración con Backend
 
 El frontend consume la **API REST** desarrollada en Node.js y Express, integrando los flujos de pago implementados con **Open Payments (Interledger)**.
