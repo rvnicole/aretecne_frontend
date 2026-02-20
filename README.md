@@ -55,7 +55,7 @@ Estructura modular orientada a escalabilidad:
 
 - `pages/` → vistas principales  
 - `components/` → componentes reutilizables  
-- `api/` → configuración de Axios y consumo de endpoints  
+- `api/` → consumo de endpoints  
 - Estado global con **Zustand** (datos del usuario autenticado)
 - Navegación con **React Router DOM**
 
